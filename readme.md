@@ -1,13 +1,4 @@
 
-## 项目概述
-
-* 产品名称：LaraBBS
-* 项目代号：larabbs
-
-LaraBBS 是一个简洁的论坛应用，使用 Laravel 编写而成。一步步开发此项目的教程请见 [《Web 开发实战进阶  - 从零开始构建论坛系统》](https://laravel-china.org/topics/6592)。
-
-![](https://dn-phphub.qbox.me/uploads/images/201711/01/1/xcr6ijTArV.png)
-
 ## 功能如下
 
 - 用户认证 —— 注册、登录、退出；
@@ -28,9 +19,8 @@ LaraBBS 是一个简洁的论坛应用，使用 Laravel 编写而成。一步步
 
 ## 开发环境部署/安装
 
-本项目代码使用 PHP 框架 [Laravel 5.5](https://d.laravel-china.org/docs/5.5/) 开发，本地开发环境使用 [Laravel Homestead](https://d.laravel-china.org/docs/5.5/homestead)。
+本项目代码使用 PHP 框架 [Laravel 5.7] 开发，本地开发环境使用 [Laravel Homestead]。
 
-下文将在假定读者已经安装好了 Homestead 的情况下进行说明。如果您还未安装 Homestead，可以参照 [Homestead 安装与设置](https://laravel-china.org/docs/5.5/homestead#installation-and-setup) 进行安装配置。
 
 ### 基础安装
 
