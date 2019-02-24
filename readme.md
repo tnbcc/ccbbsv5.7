@@ -150,7 +150,7 @@ npm run watch-poll
 管理员账号密码如下:
 
 ```
-username: summer@yousails.com
+username: tniub.cc@gmail.com
 password: password
 ```
 
