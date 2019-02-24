@@ -3,7 +3,6 @@
 
 * 产品名称：LaraBBS
 * 项目代号：larabbs
-* 官方地址：https://laravel-china.org/topics/6592
 
 LaraBBS 是一个简洁的论坛应用，使用 Laravel 编写而成。一步步开发此项目的教程请见 [《Web 开发实战进阶  - 从零开始构建论坛系统》](https://laravel-china.org/topics/6592)。
 
@@ -39,7 +38,7 @@ LaraBBS 是一个简洁的论坛应用，使用 Laravel 编写而成。一步步
 
 克隆 `larabbs` 源代码到本地：
 
-    > git clone git@github.com:summerblue/larabbs.git
+    > git clone https://github.com/tnbcc/ccbbsv5.7
 
 #### 2. 配置本地的 Homestead 环境
 
@@ -145,8 +144,8 @@ npm run watch-poll
 
 ### 链接入口
 
-* 首页地址：http://larabbs.test/
-* 管理后台：http://larabbs.test/admin
+* 首页地址：http://larabbs.work/
+* 管理后台：http://larabbs.work/admin
 
 管理员账号密码如下:
 
