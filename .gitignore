@@ -13,3 +13,7 @@ yarn-error.log
 .DS_Store
 readme.md
 yarn.lock
+.idea
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
